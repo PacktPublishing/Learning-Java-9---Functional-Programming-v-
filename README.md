@@ -20,9 +20,6 @@ This course will teach you one of the most powerful elements of the Java program
 ## Instructions and Navigation
 ### Assumed Knowledge
 To fully benefit from the coverage included in this course, you will need:<br/>
-This course targets any developer with previous Java experience looking to upskill and leverage the new functional programming paradigms made available in the language since Java 8.
-### Technical Requirements
-This course has the following software requirements:<br/>
 Basic Java knowledge.
 
 ## Related Products
