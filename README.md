@@ -8,14 +8,13 @@ This course will teach you one of the most powerful elements of the Java program
 <H2>What You Will Learn</H2>
 <DIV class=book-info-will-learn-text>
 <UL>
-<LI>A solid understanding of Object-Oriented Programming principles such as objects, classes, inheritance, abstract classes, and interfaces. 
-<LI>Java programming language features, and the benefits available with the Java Virtual Machine 
-<LI>What's new in Java 9 
-<LI>Run a simple "Hello World" example in Java 
-<LI>Write simple Java programming examples in the Java Shell (JShell) 
-<LI>Use basic building blocks of the Java programming language, different primitive types, the corresponding classes, and simple data structures such as arrays 
-<LI>Start using commonly used data types, such as Lists, Maps, and Sets 
-<LI>Load a simple text file into a List dataset, and then sort it </LI></UL></DIV>
+<LI>	Learn one of the most powerful elements of the Java programming language
+<LI>Start coding the required base functions and combine these functions into higher-level ones 
+<LI>Have a single function corresponding to the program you're building. 
+<LI>Build other programs without any modifications to save time and allow you to focus on the further development of your project. 
+<LI>Write simple Java programming examples in the Java Shell (JShell)  
+<LI>Write more readable functional code, to process discrete data sets using the stream interface, then write your own Lambdas
+ </LI></UL></DIV>
 
 ## Instructions and Navigation
 ### Assumed Knowledge
