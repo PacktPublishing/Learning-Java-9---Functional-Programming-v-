@@ -12,7 +12,6 @@ This course will teach you one of the most powerful elements of the Java program
 <LI>Start coding the required base functions and combine these functions into higher-level ones 
 <LI>Have a single function corresponding to the program you're building. 
 <LI>Build other programs without any modifications to save time and allow you to focus on the further development of your project. 
-<LI>Write simple Java programming examples in the Java Shell (JShell)  
 <LI>Write more readable functional code, to process discrete data sets using the stream interface, then write your own Lambdas
  </LI></UL></DIV>
 
